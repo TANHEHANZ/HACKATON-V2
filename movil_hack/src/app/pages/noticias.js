@@ -15,7 +15,7 @@ const Noticias = () => {
 
 
       <TextInput style={styles.input}>
-        <FontAwesome name="search" size={18} color="#3383F3" />
+        <FontAwesome name="search" size={18} color="#6b0ae7" />
       </TextInput>
 
       <Text></Text>
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     left: 15,
   },
   titulo: {
-    color: "#3383F3",
+    color: "#6b0ae7",
     textAlign: "center",
     padding: "3%",
     fontSize: 20,
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     
   },
   botones: {
-    backgroundColor: "#3383F3",
+    backgroundColor: "#6b0ae7",
     left: 150,
     borderRadius: 55,
     width: "25%",
